@@ -1,4 +1,4 @@
-<td style="width: 20%;"><img src="/img/top_automacao_industrial.png" width="100%" /></td>
+<td style="width: 20%;"><img src="/img/top_automacao_residencial.png" width="100%" /></td>
 
 A escolha de plataforma de automação residencial de código aberto que permite aos usuários controlar e monitorar dispositivos e serviços em suas casas é o mote deste projeto. Construído em torno de um núcleo central, optou-se pelo Home Assistant sendo que este atua como um hub de automação, oferecendo suporte a uma ampla gama de dispositivos e integrações.
 
