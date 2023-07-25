@@ -1,5 +1,7 @@
 <td style="width: 20%;"><img src="/img/top_automacao_residencial.png" width="100%" /></td>
 
+# Plataforma de Automação Residencial 
+
 A escolha de plataforma de automação residencial de código aberto que permite aos usuários controlar e monitorar dispositivos e serviços em suas casas é o mote deste projeto. Construído em torno de um núcleo central, optou-se pelo Home Assistant sendo que este atua como um hub de automação, oferecendo suporte a uma ampla gama de dispositivos e integrações.
 
 Uma das sua principais características é a capacidade de integração com várias marcas e protocolos. Ele suporta a integração com marcas conhecidas, como Philips Hue, Nest, Sonos, Amazon Echo, Google Home, Z-Wave, Zigbee, entre outras. Isso permite que os usuários reúnam todos os dispositivos e serviços em uma única plataforma, simplificando o controle e a automação residencial.
